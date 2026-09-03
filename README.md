@@ -28,8 +28,7 @@ Em **15 de maio de 2011**, o iFood foi oficialmente fundado por:
 
 ## Crescimento da Plataforma
 
-Entre 2011 e 2014, o iFood recebeu investimentos importantes que permitiram sua rápida expansão. Em 2014, a Movile tornou-se acionista majoritária da empresa, acelerando ainda mais seu crescimento. 【1-f5e614】【4-019062】
-
+Entre 2011 e 2014, o iFood recebeu investimentos importantes que permitiram sua rápida expansão. Em 2014, a Movile tornou-se acionista majoritária da empresa, acelerando ainda mais seu crescimento. 
 Alguns marcos importantes:
 
 - **2011:** Fundação do iFood.
