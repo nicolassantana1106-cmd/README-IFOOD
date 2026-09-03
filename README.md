@@ -4,10 +4,6 @@
 
 ### A maior plataforma de delivery online do Brasil
 
-![Status](httpselds.io/badge/Status-Ativo-green
-![tps://img.shields.io/badge/Fundação-2011-red
-![Categoria](https://img.dge/Categoria-Delivery-orange
-![Pas://img.shields.io/badge/País-Brasil-green
 
 </div>
 
