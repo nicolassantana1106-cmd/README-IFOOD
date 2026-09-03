@@ -1,78 +1,170 @@
-# 🍔 História do iFood
+<div align="center">
 
-## Sobre o Projeto
+# 🍔 iFood
 
-Este repositório apresenta um resumo da história do iFood, uma das maiores empresas de tecnologia e delivery da América Latina.
+### A maior plataforma de delivery online do Brasil
+
+![Status](httpselds.io/badge/Status-Ativo-green
+![tps://img.shields.io/badge/Fundação-2011-red
+![Categoria](https://img.dge/Categoria-Delivery-orange
+![Pas://img.shields.io/badge/País-Brasil-green
+
+</div>
 
 ---
 
-## O que é o iFood?
+# 📖 Descrição
 
-O iFood é uma plataforma brasileira de tecnologia especializada em delivery online. A empresa conecta consumidores, restaurantes, mercados, farmácias e entregadores por meio de um aplicativo e portal web. Atualmente, é líder no mercado de delivery no Brasil. 
+O **iFood** é uma plataforma brasileira de tecnologia especializada em delivery online. Fundado em 2011, o serviço conecta consumidores, restaurantes, mercados, farmácias e entregadores por meio de aplicativos e sistemas web.
+
+A empresa revolucionou a forma como os brasileiros realizam pedidos de refeições e produtos, tornando o processo mais rápido, seguro e eficiente.
 
 ---
 
-## Origem da Empresa
+# 🎯 Público-Alvo
 
-A história do iFood começou antes do aplicativo existir. Em 1997 foi criada a **Disk Cook**, um guia impresso de cardápios com pedidos realizados por telefone. Anos depois, o negócio evoluiu para o ambiente digital e deu origem ao iFood. 
+O sistema é destinado para:
 
-Em **15 de maio de 2011**, o iFood foi oficialmente fundado por:
+✅ Consumidores que desejam pedir refeições e produtos online;
+
+✅ Restaurantes e lanchonetes que desejam ampliar suas vendas;
+
+✅ Mercados e farmácias que buscam aumentar sua presença digital;
+
+✅ Entregadores que utilizam a plataforma como fonte de renda;
+
+✅ Empresas que oferecem benefícios corporativos relacionados à alimentação.
+
+---
+
+# 📜 História do iFood
+
+A origem do iFood está ligada à **Disk Cook**, um guia impresso de cardápios criado em 1997.
+
+Com a popularização da internet e dos smartphones, o negócio evoluiu para uma plataforma digital. Em **15 de maio de 2011**, foi fundado oficialmente pelos empreendedores:
 
 - Patrick Sigrist
 - Eduardo Baer
 - Guilherme Bonifácio
 - Felipe Fioravante
 
+Desde então, recebeu diversos investimentos, expandiu sua atuação nacionalmente e tornou-se líder no setor de delivery no Brasil.
 
 ---
 
-## Crescimento da Plataforma
+# 🚀 Principais Funcionalidades
 
-Entre 2011 e 2014, o iFood recebeu investimentos importantes que permitiram sua rápida expansão. Em 2014, a Movile tornou-se acionista majoritária da empresa, acelerando ainda mais seu crescimento. 
-Alguns marcos importantes:
+## 👤 Para Clientes
 
-- **2011:** Fundação do iFood.
-- **2012:** Lançamento do site e do aplicativo.
-- **2014:** Expansão nacional e entrada da Movile como principal controladora.
-- **2018:** O iFood alcança o status de startup unicórnio.
-- **2020:** Forte crescimento durante a pandemia de COVID-19.
-- **Atualidade:** Liderança no mercado brasileiro de delivery. 
----
+- Realizar pedidos online;
+- Buscar restaurantes próximos;
+- Efetuar pagamentos digitais;
+- Acompanhar entregas em tempo real;
+- Avaliar restaurantes e entregadores;
+- Utilizar cupons de desconto.
 
-## Impacto no Mercado
+## 🏪 Para Estabelecimentos
 
-O iFood revolucionou a forma como os brasileiros pedem comida, tornando o processo mais rápido e acessível por meio da tecnologia. Além dos restaurantes, a empresa expandiu sua atuação para:
+- Cadastro de produtos;
+- Gerenciamento de cardápios;
+- Recebimento de pedidos online;
+- Relatórios e indicadores de vendas;
+- Criação de promoções e campanhas.
 
-- Mercados
-- Farmácias
-- Pet shops
-- Benefícios corporativos
+## 🛵 Para Entregadores
 
-
-
----
-
-## Tecnologias Utilizadas pelo iFood
-
-Embora a empresa não revele todos os detalhes de sua arquitetura, o iFood investe fortemente em:
-
-- Computação em nuvem
-- Inteligência Artificial
-- Big Data
-- Aplicações mobile
-- Sistemas de logística em tempo real
-
-
+- Recebimento de solicitações de entrega;
+- Navegação por GPS;
+- Controle de ganhos;
+- Histórico de entregas realizadas.
 
 ---
 
-## Conclusão
+# 💻 Tecnologias Utilizadas
 
-O iFood se tornou um dos maiores casos de sucesso do ecossistema de tecnologia brasileiro. O que começou como um guia impresso de cardápios evoluiu para uma plataforma digital que conecta milhões de pessoas diariamente e movimenta parte significativa da economia digital do país. 
+O iFood utiliza diversas tecnologias modernas para garantir alta disponibilidade e desempenho:
+
+| Tecnologia | Finalidade |
+|------------|-----------|
+| ☁️ Cloud Computing | Infraestrutura escalável |
+| 🤖 Inteligência Artificial | Recomendações e otimizações |
+| 📊 Big Data | Análise de dados |
+| 📱 Android e iOS | Aplicações mobile |
+| 🌎 APIs | Comunicação entre sistemas |
+| 📍 GPS | Rastreamento de entregas |
+| 💳 Pagamentos Digitais | Transações financeiras |
 
 ---
 
-## Referências
+# ✅ Requisitos para Utilização
+
+## Cliente
+
+- Smartphone Android ou iOS;
+- Conexão com a internet;
+- Cadastro na plataforma;
+- Forma de pagamento válida.
+
+## Estabelecimento
+
+- Cadastro aprovado pelo iFood;
+- Acesso à internet;
+- Sistema para gerenciamento de pedidos.
+
+## Entregador
+
+- Cadastro aprovado;
+- Documento de identificação válido;
+- Veículo compatível com entregas;
+- Smartphone com internet.
+
+---
+
+# 📈 Linha do Tempo
+
+| Ano | Evento |
+|------|---------|
+| 1997 | Criação da Disk Cook |
+| 2011 | Fundação do iFood |
+| 2012 | Lançamento do aplicativo |
+| 2014 | Expansão nacional |
+| 2018 | Torna-se startup unicórnio |
+| 2020 | Crescimento acelerado na pandemia |
+| Atualidade | Líder em delivery no Brasil |
+
+---
+
+# 🌟 Impacto do iFood
+
+O iFood conecta milhões de usuários diariamente e contribui para a digitalização de restaurantes, mercados, farmácias e diversos estabelecimentos comerciais.
+
+A plataforma tornou-se uma referência em inovação tecnológica e logística, gerando oportunidades para empreendedores e entregadores em todo o país.
+
+---
+
+# 👨‍💻 Desenvolvedor(es)
+
+| Nome | Função |
+|--------|---------|
+| Seu Nome | Pesquisa e Documentação |
+| Integrante 2 | Desenvolvimento |
+| Integrante 3 | Estruturação do README |
+| Integrante 4 | Revisão |
+| Integrante 5 | Apresentação |
+
+---
+
+# 📚 Referências
 
 - https://institucional.ifood.com.br/
 - https://pt.wikipedia.org/wiki/IFood
+
+---
+
+<div align="center">
+
+### Projeto acadêmico desenvolvido para a disciplina de Git e GitHub
+
+⭐ Caso tenha gostado, deixe uma estrela no repositório.
+
+</div>
