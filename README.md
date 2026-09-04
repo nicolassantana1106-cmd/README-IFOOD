@@ -89,6 +89,7 @@ O iFood utiliza diversas tecnologias modernas para garantir alta disponibilidade
 | 🌎 APIs | Comunicação entre sistemas |
 | 📍 GPS | Rastreamento de entregas |
 | 💳 Pagamentos Digitais | Transações financeiras |
+| Linguagens de programação usadas | Java, Java Script |
 
 ---
 
