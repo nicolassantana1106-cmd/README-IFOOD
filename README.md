@@ -142,11 +142,11 @@ A plataforma tornou-se uma referência em inovação tecnológica e logística, 
 
 | Nome | Função |
 |--------|---------|
-| Seu Nome | Pesquisa e Documentação |
-| Integrante 2 | Desenvolvimento |
-| Integrante 3 | Estruturação do README |
-| Integrante 4 | Revisão |
-| Integrante 5 | Apresentação |
+| Seu Nome | Nicolas Henrique Santana CAetano|
+| Integrante 2 | Robert Santos Pereira |
+| Integrante 3 | Kauâ Silva Mattoso |
+| Integrante 4 | Carlos Henrique |
+| Integrante 5 | Jose Kailon |
 
 ---
 
