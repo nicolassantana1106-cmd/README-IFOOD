@@ -141,13 +141,22 @@ A plataforma tornou-se uma referência em inovação tecnológica e logística, 
 
 # 👨‍💻 Desenvolvedor(es)
 
-| Nome | Função |
-|--------|---------|
-| Seu Nome | Nicolas Henrique Santana CAetano|
-| Integrante 2 | Robert Santos Pereira |
-| Integrante 3 | Kauâ Silva Mattoso |
-| Integrante 4 | Carlos Henrique |
-| Integrante 5 | Jose Kailon |
+| Nome |
+|--------|
+| Patrick Sigrist |
+| Eduardo Baer | 
+| Guilherme Bonifácio |
+| Felipe Fioravante | 
+
+# Membros do Projeto
+
+**| Nomes |**
+
+| Nicolas Henrique Santana Caetano |
+| Kauã Silva Mattoso |
+| Robert Santos |
+| Carlos Henrique |
+| Jose Kailon |
 
 ---
 
